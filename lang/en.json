@@ -8,6 +8,14 @@
       "Wis": { "long": "Wisdom", "abbr": "wis" },
       "Cha": { "long": "Charisma", "abbr": "cha" }
     },
+    "CombatSkills": {
+      "initiative": { "long": "Initiative" },
+      "fortitude": { "long": "Fortitude" },
+      "dodge": { "long": "Dodge" },
+      "grappleOther": { "long": "Grapple Other" },
+      "grappleResist": { "long": "Resist Grapple" },
+      "will": { "long": "Will" }
+    },
     "SheetLabels": {
       "Actor": "WarframeArmisticeEra Actor Sheet",
       "Item": "WarframeArmisticeEra Item Sheet"
